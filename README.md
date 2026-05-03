@@ -1,8 +1,8 @@
-# 🚀 Create Express Backend CLI
+# 🚀 Express Backend Create
 
-[![npm version](https://img.shields.io/npm/v/create-express-backend-cli?color=blue)](https://www.npmjs.com/package/create-express-backend-cli)
-[![npm downloads](https://img.shields.io/npm/dt/create-express-backend-cli?color=green)](https://www.npmjs.com/package/create-express-backend-cli)
-[![license](https://img.shields.io/npm/l/create-express-backend-cli)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/express-backend-create?color=blue)](https://www.npmjs.com/package/express-backend-create)
+[![npm downloads](https://img.shields.io/npm/dt/express-backend-create?color=green)](https://www.npmjs.com/package/express-backend-create)
+[![license](https://img.shields.io/npm/l/express-backend-create)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/efeurhobobullish/create-express-backend?style=social)](https://github.com/efeurhobobullish/create-express-backend)
 
 A modern CLI tool to instantly generate a scalable **Express backend** with clean architecture, database setup, and production-ready structure.
@@ -12,7 +12,7 @@ A modern CLI tool to instantly generate a scalable **Express backend** with clea
 ## ⚡ Usage
 
 ```bash
-npx create-express-backend-cli myApp
+npx express-backend-create myApp
 ```
 
 ---
