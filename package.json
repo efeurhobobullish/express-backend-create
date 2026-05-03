@@ -1,34 +1,36 @@
 {
   "name": "create-express-backend",
-  "version": "1.0.0",
-  "description": "A modern CLI to generate Express backend projects with database & package selection",
+  "version": "1.0.1",
+  "description": "A fast CLI tool to generate production-ready Express backend projects with MongoDB, SQL support, and clean architecture in seconds",
   "main": "index.js",
   "bin": {
     "create-express-backend": "index.js"
   },
-  "type": "commonjs",
-  "files": [
-    "index.js",
-    "README.md",
-    "LICENSE"
-  ],
   "keywords": [
     "express",
-    "cli",
     "backend",
+    "cli",
     "generator",
-    "node",
-    "npm",
+    "nodejs",
+    "api",
+    "rest-api",
+    "boilerplate",
+    "starter",
     "scaffold",
-    "api"
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "fullstack",
+    "backend-generator",
+    "express-generator",
+    "node-cli",
+    "api-generator",
+    "boilerplate-generator"
   ],
-  "author": "Empire Tech",
+  "author": "Empire Tech Labs",
   "license": "MIT",
   "engines": {
     "node": ">=14"
-  },
-  "dependencies": {
-    "inquirer": "^8.2.7"
   },
   "repository": {
     "type": "git",
