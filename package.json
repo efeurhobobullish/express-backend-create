@@ -4,7 +4,7 @@
   "description": "A fast CLI tool to generate production-ready Express backend projects with MongoDB, SQL support, and clean architecture in seconds",
   "main": "index.js",
   "bin": {
-    "create-express-backend": "index.js"
+    "create-express-backend-cli": "index.js"
   },
   "keywords": [
     "express",
