@@ -2,6 +2,22 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![NPM Version](https://img.shields.io/npm/v/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create)
+[![NPM Downloads](https://img.shields.io/npm/dm/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create)
+
+
+
+[![Download Now](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express-backend-create)
+
+A powerful CLI tool to scaffold Express.js backend applications with TypeScript support, best practices, and production-ready configurations.
+
+## 📊 Package Statistics
+
+| Metric | Value |
+|--------|-------|
+| 📦 Weekly Downloads | [![NPM Downloads](https://img.shields.io/npm/dw/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create) |
+| 📈 Monthly Downloads | [![NPM Downloads](https://img.shields.io/npm/dm/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create) |
+| 🎯 Total Downloads | [![NPM Total Downloads](https://img.shields.io/npm/dt/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create) |
+
 
 **Express Backend Create CLI** is a robust, developer-first command-line tool designed for scaffolding production-ready Express.js applications instantly — just like `create-react-app` but for your Node.js backend.
 
