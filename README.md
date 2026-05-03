@@ -1,42 +1,25 @@
-skip to:contentpackage search
+# 🚀 Create Express Backend
 
-Pro
-Teams
-Pricing
-Documentation
-npm
-Search packages
-Search
-@codestackk/create-express-backend
-1.0.3 • Public • Published 10 days ago
-/@codestackk/create-express-backend/readme.md
-/
-@codestackk/create-express-backend
-/
-readme.md
+[![npm version](https://img.shields.io/npm/v/create-express-backend?color=blue)](https://www.npmjs.com/package/create-express-backend)
+[![npm downloads](https://img.shields.io/npm/dt/create-express-backend?color=green)](https://www.npmjs.com/package/create-express-backend)
+[![license](https://img.shields.io/npm/l/create-express-backend)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/efeurhobobullish/create-express-backend?style=social)](https://github.com/efeurhobobullish/create-express-backend)
 
-Back
-101 LOC
-1.73 kB
-# @codestackk/create-express-backend
-
-🚀 CLI tool to quickly create a clean and scalable Express.js backend structure.
+A modern CLI tool to instantly generate a scalable **Express backend** with clean architecture, database setup, and production-ready structure.
 
 ---
 
 ## ⚡ Usage
 
-Run the CLI using **npx** (no installation required):
-
 ```bash
-npx @codestackk/create-express-backend myApp
+npx create-express-backend myApp
 ```
 
 ---
 
-## 📂 What it creates
+## 📂 Project Structure
 
-```
+```bash
 myApp/
 │
 ├── src/
@@ -63,16 +46,19 @@ myApp/
 
 ## ⚙️ Features
 
-* Clean and scalable folder structure
-* Express server setup
-* MongoDB connection ready
-* Global error handling middleware
-* Environment configuration support
-* Development & production scripts
+```bash
+✔ Instant Express backend setup
+✔ Clean and scalable folder structure
+✔ MongoDB / SQL database support
+✔ Global error handling middleware
+✔ Environment variable support
+✔ Dev & production scripts
+✔ Modular architecture (routes, controllers, services)
+```
 
 ---
 
-## 🛠️ After project creation
+## 🛠️ Getting Started
 
 ```bash
 cd myApp
@@ -84,35 +70,39 @@ npm run dev
 
 ## 🔑 Environment Variables
 
-Update your `.env` file:
-
-```
+```env
 PORT=3000
 MONGO_URI=your_mongodb_connection_string
+DATABASE_URL=
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
 FRONTEND_URL=http://localhost:5173
 NODE_ENV=development
 ```
 
 ---
 
-## 📌 Notes
+## 📌 Requirements
 
-* Requires Node.js >= 14
-* Uses nodemon for development
-* Make sure MongoDB is running or provide a valid connection string
+```bash
+Node.js >= 14
+npm or yarn
+MongoDB (if using MongoDB option)
+```
 
 ---
 
-## 🧠 Why use this?
+## 💡 Why use this?
 
-Setting up backend structure manually is repetitive and error-prone.
-This CLI automates the setup so you can focus on building features instead of boilerplate.
+This CLI removes repetitive backend setup so you can focus on building features instead of boilerplate.
 
 ---
 
 ## 👨‍💻 Author
 
-Adarsh Gupta
+Empire Tech Labs
 
 ---
 
