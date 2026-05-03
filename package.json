@@ -1,10 +1,10 @@
 {
-  "name": "create-express-backend-cli",
+  "name": "express-backend-create",
   "version": "1.0.1",
   "description": "A fast CLI tool to generate production-ready Express backend projects with MongoDB, SQL support, and clean architecture in seconds",
   "main": "index.js",
   "bin": {
-    "create-express-backend-cli": "index.js"
+    "express-backend-create": "index.js"
   },
   "keywords": [
     "express",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/efeurhobobullish/create-express-backend-cli"
+    "url": "https://github.com/efeurhobobullish/express-backend-create"
   },
   "bugs": {
-    "url": "https://github.com/efeurhobobullish/create-express-backend-cli/issues"
+    "url": "https://github.com/efeurhobobullish/express-backend-create/issues"
   },
-  "homepage": "https://github.com/efeurhobobullish/create-express-backend-cli#readme"
+  "homepage": "https://github.com/efeurhobobullish/express-backend-create#readme"
 }
