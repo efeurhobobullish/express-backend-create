@@ -1,5 +1,5 @@
 {
-  "name": "create-express-backend",
+  "name": "create-express-backend-cli",
   "version": "1.0.1",
   "description": "A fast CLI tool to generate production-ready Express backend projects with MongoDB, SQL support, and clean architecture in seconds",
   "main": "index.js",
