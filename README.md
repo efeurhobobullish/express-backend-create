@@ -18,7 +18,7 @@ A powerful CLI tool to scaffold Express.js backend applications with TypeScript 
 | 📈 Monthly Downloads | [![NPM Downloads](https://img.shields.io/npm/dm/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create) |
 | 🎯 Total Downloads | [![NPM Total Downloads](https://img.shields.io/npm/dt/express-backend-create.svg)](https://www.npmjs.com/package/express-backend-create) |
 
-
+---
 **Express Backend Create CLI** is a robust, developer-first command-line tool designed for scaffolding production-ready Express.js applications instantly — just like `create-react-app` but for your Node.js backend.
 
 ```bash
