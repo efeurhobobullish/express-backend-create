@@ -1,6 +1,6 @@
 {
   "name": "express-backend-create",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CLI to scaffold a production-ready Express.js backend instantly",
   "type": "module",
   "bin": {
